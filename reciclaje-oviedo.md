@@ -2,7 +2,7 @@
 
 > Источник: [Мэрия Овьедо (Ayuntamiento de Oviedo)](https://www.oviedo.es/serviciosbasicos/recogidabasuras)
 
-![Баннер кампании по переработке](images/banner-reciclaje.png)
+<img src="images/banner-reciclaje.png" alt="Баннер кампании по переработке" height="200">
 
 **Время выноса:** de 20:00 a 22:30 horas.
 **Штраф за нарушение:** multa de hasta **750 €**.
@@ -11,7 +11,7 @@
 
 ## 1. Коричневый контейнер (Cubo Marrón) — Органические отходы (Residuos Orgánicos)
 
-![Коричневый контейнер](images/cubo-marron.png)
+<img src="images/cubo-marron.png" alt="Коричневый контейнер" height="300">
 
 **Частота:** каждый день, включая воскресенья и праздники.
 
@@ -43,7 +43,7 @@
 
 ## 2. Жёлтый контейнер (Cubo Amarillo) — Упаковка: пластик, металл, тетрапак (Envases: Plástico, Metal, Brik)
 
-![Жёлтый контейнер](images/cubo-amarillo.png)
+<img src="images/cubo-amarillo.png" alt="Жёлтый контейнер" height="300">
 
 **Частота:** понедельник, среда, пятница (lunes, miércoles, viernes).
 
@@ -70,7 +70,7 @@
 
 ## 3. Синий контейнер (Cubo Azul) — Бумага и картон (Papel y Cartón)
 
-![Синий контейнер](images/cubo-azul.png)
+<img src="images/cubo-azul.png" alt="Синий контейнер" height="300">
 
 **Частота:** вторник, четверг, суббота (martes, jueves, sábados).
 
@@ -99,7 +99,7 @@
 
 ## 4. Зелёный контейнер (Cubo Verde) — Стекло (Vidrio)
 
-![Зелёный контейнер](images/cubo-verde.png)
+<img src="images/cubo-verde.png" alt="Зелёный контейнер" height="300">
 
 **Частота:** 3 дня в неделю, зависит от района — [карта зон (PDF)](https://www.oviedo.es/documents/25041/2867546/Mapa_de_zonas-vidrio.pdf/c6f2e75c-45d2-41e4-9681-d2db87a38385).
 
@@ -123,7 +123,7 @@
 
 ## 5. Чёрный/серый контейнер (Cubo Negro/Gris) — Неперерабатываемые остатки (Resto No Reciclable)
 
-![Чёрный контейнер](images/cubo-negro.png)
+<img src="images/cubo-negro.png" alt="Чёрный контейнер" height="300">
 
 **Частота:** каждый день (Пн–Вс), все районы.
 
