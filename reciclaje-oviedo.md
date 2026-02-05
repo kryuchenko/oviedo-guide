@@ -2,8 +2,6 @@
 
 > Источник: [Мэрия Овьедо (Ayuntamiento de Oviedo)](https://www.oviedo.es/serviciosbasicos/recogidabasuras)
 
-<img src="images/banner-reciclaje.png" alt="Баннер кампании по переработке" height="200">
-
 **Время выноса:** de 20:00 a 22:30 horas.
 **Штраф за нарушение:** multa de hasta **750 €**.
 
