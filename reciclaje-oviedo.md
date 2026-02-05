@@ -2,8 +2,12 @@
 
 > Источник: [Мэрия Овьедо (Ayuntamiento de Oviedo)](https://www.oviedo.es/serviciosbasicos/recogidabasuras)
 
-**Время выноса:** de 20:00 a 22:30 horas.
-**Штраф за нарушение:** multa de hasta **750 €**.
+**Время выноса:** с 20:00 до 22:30.
+
+**Штраф за несортировку:** до **750 €** — административное нарушение (infracción leve). Основание:
+- Государственный закон Испании [Ley 7/2022](https://www.boe.es/eli/es/l/2022/04/08/7/con) об отходах и загрязнённых почвах
+- Муниципальный регламент Овьедо о чистоте улиц и сборе бытовых отходов (Ordenanza municipal de Limpieza de vías públicas y recogida de residuos domésticos)
+- Муниципальный регламент №108 — тариф на вывоз мусора (Ordenanza 108, Tasa por recogida de basuras, 2026)
 
 ---
 
